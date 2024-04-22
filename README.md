@@ -7,4 +7,4 @@ Considering the sparse analysis available around the world of webtoons, I was dr
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).  
-2. Scraping script is available [here](https://github.com/khinydnlin/car_auction_price_predictions/blob/main/Car%20Auction%20Price%20Predictions.ipynb).
+2. Scraping script is available [here](https://github.com/khinydnlin/webtoons_scraper/blob/main/webtoons_scraper.py).
