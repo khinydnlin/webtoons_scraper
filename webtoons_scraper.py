@@ -1,5 +1,6 @@
 #the script may not work properly if there are any changes to website layouts
 #script last updated on 22nd April 2024
+#
 
 import scrapy
 from scrapy.crawler import CrawlerProcess
@@ -17,6 +18,7 @@ class WebtoonSpider(scrapy.Spider):
                 'fields': ['genre','title', 'author', 'likes', 'ratings', 'released_info'],
                 'indent': 4,
             },
+        'ROBOTSTXT_OBEY': True
         },
     }
 
