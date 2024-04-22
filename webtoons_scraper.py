@@ -1,6 +1,5 @@
 #the script may not work properly if there are any changes to website layouts
 #script last updated on 22nd April 2024
-#
 
 import scrapy
 from scrapy.crawler import CrawlerProcess
